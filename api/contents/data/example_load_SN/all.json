@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-29T06:44:15.653162Z",
+      "created": "2022-03-29T08:32:48.523396Z",
       "format": null,
-      "last_modified": "2022-03-29T06:43:05.312248Z",
+      "last_modified": "2022-03-29T08:31:40.102422Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "sn_data.xlsx",
       "path": "data/example_load_SN/sn_data.xlsx",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-29T06:44:15.653162Z",
+      "created": "2022-03-29T08:32:48.523396Z",
       "format": null,
-      "last_modified": "2022-03-29T06:43:05.312248Z",
+      "last_modified": "2022-03-29T08:31:40.102422Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "loads.xlsx",
       "path": "data/example_load_SN/loads.xlsx",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-29T06:44:15.653162Z",
+  "created": "2022-03-29T08:32:48.523396Z",
   "format": "json",
-  "last_modified": "2022-03-29T06:44:15.653162Z",
+  "last_modified": "2022-03-29T08:32:48.523396Z",
   "mimetype": null,
   "name": "example_load_SN",
   "path": "data/example_load_SN",
